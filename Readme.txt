@@ -1,0 +1,1 @@
+Open project folder in terminal and run npm start
